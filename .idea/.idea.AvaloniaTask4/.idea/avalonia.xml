@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AvaloniaTask4/MainWindow.axaml" value="AvaloniaTask4/AvaloniaTask4.csproj" />
+        <entry key="ReflectionApp/App.axaml" value="ReflectionApp/ReflectionApp.csproj" />
+        <entry key="ReflectionApp/Views/MainWindow.axaml" value="ReflectionApp/ReflectionApp.csproj" />
+        <entry key="Task2/App.axaml" value="Task2/Task2.csproj" />
+        <entry key="Task2/Views/MainWindow.axaml" value="Task2/Task2.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
